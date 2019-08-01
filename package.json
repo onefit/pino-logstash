@@ -18,7 +18,17 @@
     "udp",
     "tcp"
   ],
-  "author": "Guy Rombaut",
+  "author": "OneFit Dev <devops@one.fit>",
+  "contributors": [
+    {
+      "name": "Jordi Cea",
+      "email": "jordi@one.fit"
+    },
+    {
+      "name": "Guy Rombaut",
+      "email": "guy@one.fit"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/onefit/pino-logstash/issues"
