@@ -1,0 +1,27 @@
+{
+  "name": "pino-logstash",
+  "version": "1.0.0",
+  "description": "A Logstash TCP/UDP transport for Pino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onefit/pino-logstash.git"
+  },
+  "keywords": [
+    "pinojs",
+    "logstash",
+    "logger",
+    "elastic",
+    "udp",
+    "tcp"
+  ],
+  "author": "Guy Rombaut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onefit/pino-logstash/issues"
+  },
+  "homepage": "https://github.com/onefit/pino-logstash#readme"
+}
